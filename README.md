@@ -16,15 +16,15 @@ This is a simple web-based chatbot that lets users interact with an AI-powered m
 
 **Features**
 
-*Easy-to-use interface with a clean design
+* Easy-to-use interface with a clean design
 
-*Instant AI responses through an API
+* Instant AI responses through an API
 
-*Loading animation while the chatbot processes the message
+* Loading animation while the chatbot processes the message
 
-*Supports "Enter" key for quick message sending
+* Supports "Enter" key for quick message sending
 
-*Responsive design that works on desktops, tablets, and mobile devices
+* Responsive design that works on desktops, tablets, and mobile devices
 
 **Technologies Used**
 
